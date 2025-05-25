@@ -1,4 +1,5 @@
 # pc-remote-control
+ Discord : szyke1
 
 Bu proje, bilgisayarların açılış/kapanış zamanlarını, aktif sürelerini Firebase veritabanına gönderen ve mobil uygulama üzerinden bu bilgileri takip etmeyi sağlayan bir sistemdir.
 
@@ -21,3 +22,5 @@ Proje hâlen geliştirme aşamasındadır. Desktop kısmı için Python tabanlı
 ---
 
 > *Not:* Bu proje tamamen açık kaynak olarak geliştirilmektedir.
+>
+>
